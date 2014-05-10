@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'Anton';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Anton'), url(http://themes.googleusercontent.com/static/fonts/anton/v3/tilmJBBU81h1G7ZsdY3Hmw.woff) format('woff');
+}
+@font-face {
+  font-family: 'Philosopher';
+  src: url('../Fonts/Philosopher.otf');
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans'), local('OpenSans'), url(http://themes.googleusercontent.com/static/fonts/opensans/v6/u-WUoqrET9fUeobQW7jkRT8E0i7KZn-EPnyo3HZu7kw.woff) format('woff');
+}

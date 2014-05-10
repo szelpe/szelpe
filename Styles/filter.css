@@ -1,0 +1,63 @@
+.filter-container {
+    position: absolute;
+    bottom: -30px;
+    z-index: 2;
+}
+
+#filter,
+#filter.animated:hover,
+#filter.animated:focus,
+#filter.animated.active,
+.filter-active #filter.animated
+{
+  -webkit-appearance: none;
+  display: block;
+  margin: 0;
+  border: none;
+  border-radius: 11px;
+  padding: 1px;
+  height: 22px;
+  line-height: 16px;
+  width: 180px;
+  box-shadow: inset 0 1px 1px hsla(0, 0%, 0%, .0),
+              inset 0 2px 3px hsla(0, 0%, 0%, .18),
+              inset 0 0 0 1px hsla(0, 0%, 0%, 0.22);
+}
+
+.filter-magnifier {
+  -webkit-appearance: none;
+  width: 20px;
+  height: 20px;
+  background: url("../Images/IDR_INPUT_FILTER_MAGNIFIER_ICON.png") transparent no-repeat 50% 50%;
+  margin: 0;
+  position: absolute;
+  top: 2px;
+  left: 2px;
+}
+
+#filter.animated
+{
+  background-color: transparent;
+  background-image: none;
+  box-shadow: inset 0 0 0 1px hsla(0, 0%, 0%, 0.22);
+  width: 22px;
+  transition: background-color 0.25s, box-shadow 0.25s, width 0.25s;
+  color: rgba(0,0,0,0);
+  position: relative;
+  z-index: 1;
+}
+
+#filter:focus
+{
+  outline: none;
+}
+
+#filter.animated:hover,
+#filter.animated:focus,
+#filter.animated.active
+{
+  width: 180px;
+  color: #633663;
+  padding-left: 22px;
+}
+

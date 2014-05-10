@@ -1,0 +1,233 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+    <head> 
+        <meta charset="utf-8" />
+        <title>Szél Péter</title>
+        <link rel="stylesheet" href="Styles/fonts.css" type="text/css">
+        <link rel="stylesheet" href="Styles/reset.css" type="text/css">
+        <link rel="stylesheet" href="Styles/grid.css" type="text/css">
+        <link rel="stylesheet" href="Styles/style.css" type="text/css">
+        <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Arimo&subset=latin,latin-ext" type="text/css">
+        <meta content="IE=edge,chrome=1" name="X-UA-Compatible" />
+        <link rel="shortcut icon" type="image/x-icon" href="Images/favicon.ico">
+        <style>
+        section {
+            min-height: 90vh;
+        }
+        </style>
+    </head> 
+    <body>
+<section>
+<!--==============================header=================================-->
+
+<header class="main homepage">
+<div id="FollowMe" style="top: 7px; width: auto;">
+    <a href="https://www.linkedin.com/profile/view?id=174239396" class="Linkedin" target="_blank">
+        <img src="Images/SocialBanners/Linkedin.png" alt="Linkedin" width="48" height="48" />
+    </a>
+    <a href="https://www.facebook.com/szel.peter" class="Facebook" target="_blank">
+        <img src="Images/SocialBanners/Facebook.png" alt="Facebook" width="48" height="48" />
+    </a>
+    <a href="https://twitter.com/szelpe" class="Twitter" target="_blank">
+        <img src="Images/SocialBanners/Twitter.png" alt="Twitter" width="48" height="48" />
+    </a>
+    <a href="/rss" class="RSS" target="_blank">
+        <img src="Images/SocialBanners/RSS.png" alt="RSS" width="48" height="48" />
+    </a>
+</div>
+    <h1>
+        <center>
+            <img src="Images/logo.png" alt="Szél Péter" height="150" />
+        </center>
+    </h1>
+    <div class="line"></div>
+</header>
+<!--==============================content================================-->
+<main id="mainSelect">
+    <ul class="banners">
+        <li>
+            <a href="#Bemutatkozas">
+                <span class="ban_grey">
+                    <img src="Images/pic_1000.png" alt="" class="pics" />
+                    <span class="bannerCont col1">bemutatkozás</span>
+                </span>
+                <span class="grey_part"></span>
+                <span class="ban_color">
+                    <img src="Images/banner_1.png" alt="" class="colorNoize" />
+                    <div class="btn_anim1">Tovább</div>
+                </span>
+            </a>
+        </li>
+        <li>
+            <a href="#Tapasztalatok">
+                <span class="ban_grey">
+                    <img src="Images/pic_2000.png" alt="" class="pics">
+                    <span class="bannerCont col2">tapasztalat</span>
+                </span>
+                <span class="grey_part"></span>
+                <span class="ban_color">
+                    <img src="Images/banner_2.png" alt="" class="colorNoize">
+                    <div class="btn_anim2">Tovább</div>
+                </span>
+            </a>
+        </li>
+        <li>
+            <a href="#Projektek">
+                <span class="ban_grey">
+                    <img src="Images/pic_3000.png" alt="" class="pics">
+                    <span class="bannerCont col3">projektek</span>
+                </span><span class="grey_part"></span>
+                <span class="ban_color">
+                    <img src="Images/banner_3.png" alt="" class="colorNoize">
+                    <div class="btn_anim3">Tovább</div>
+                </span>
+            </a>
+        </li>
+        <li>
+            <a href="http://blog.szelpe.hu">
+                <span class="ban_grey">
+                    <img src="Images/pic_4000.png" alt="" class="pics"><span class="bannerCont col4">Blog</span>
+                </span>
+                <span class="grey_part"></span>
+                <span class="ban_color">
+                    <img src="Images/banner_4.png" alt="" class="colorNoize">
+                    <div class="btn_anim4">Tovább</div>
+                </span>
+            </a>
+        </li>
+        <!--
+        <li class="lastbaner">
+            <a href="google.com">
+                <span class="ban_grey">
+                    <img src="Images/pic_5000.png" alt="" class="pics"><span class="bannerCont col5">kapcsolat</span></span><span class="grey_part"></span>
+                <span class="ban_color">
+                    <img src="Images/banner_5.png" alt="" class="colorNoize">
+                    <span class="btn_anim5">Tovább</span>
+                </span>
+            </a>
+        </li>
+        -->
+    </ul>
+</main>
+</section>
+<section id="Bemutatkozas" class="container_16">
+<header>
+    <h1>Bemutatkoz&#225;s</h1>
+</header>
+
+<p><img src="http://m.c.lnkd.licdn.com/media/p/4/000/14d/022/2fc56df.jpg" alt="" width="180" height="180" style="float: right;" />Sz&eacute;l P&eacute;ter vagyok, villamosm&eacute;rn&ouml;k. Eg&eacute;szen kiskorom &oacute;ta (nagyj&aacute;b&oacute;l ami&oacute;ta bek&ouml;t&ouml;tt&eacute;k hozz&aacute;nk az internetet) <strong>szenved&eacute;lyem a webfejleszt&eacute;s</strong>, s miut&aacute;n elv&eacute;geztem az egyetemet, e hobby a munk&aacute;mm&aacute; v&aacute;lt.</p>
+<h2>Csak pozit&iacute;van</h2>
+<p>Megsz&aacute;llott h&iacute;ve vagyok a <strong>pozit&iacute;v pszichol&oacute;gi&aacute;nak.</strong>&nbsp;Hiszem, hogy &ouml;nmag&aacute;ban a pozit&iacute;v hozz&aacute;&aacute;ll&aacute;s nagys&aacute;grendekkel megn&ouml;veli a siker es&eacute;ly&eacute;t.</p>
+<p>Egyik kedvenc t&ouml;rt&eacute;netem ezzel kapcsolatban legjobb egyetemi bar&aacute;tomhoz, Szab&oacute; G&aacute;borhoz k&ouml;thető. Rendszerint egym&aacute;s mellett &uuml;lt&uuml;nk, &eacute;s a legt&ouml;bb egyetemist&aacute;val ellent&eacute;tben, akik unottan, meglehetős k&ouml;z&ouml;nnyel vegy&iacute;tve szenvedt&eacute;k v&eacute;gig az előad&aacute;sok sor&aacute;t, mi mindig viccelődt&uuml;nk valamivel. Egyik alkalommal, mikor előad&aacute;sra &eacute;rkezv&eacute;n bel&eacute;pt&uuml;nk a terembe, az előad&oacute; r&aacute;nkn&eacute;zett &eacute;s megsz&oacute;lalt: "<em>Na, megj&ouml;ttek a vid&aacute;m fi&uacute;k!</em>" Elk&eacute;pesztően meglepődtem, hogy 500 &eacute;vfolyamt&aacute;rsunk k&ouml;z&uuml;l &iacute;gy megjegyzett minket mag&aacute;nak; valahol j&oacute;l is esett. Ekkor d&ouml;bbentem r&aacute; tal&aacute;n elősz&ouml;r, hogy mekkora a jelentős&eacute;ge a boldogs&aacute;gnak b&aacute;rmiben, amit csin&aacute;lsz. &Iacute;gy folytatta a professzor &uacute;r: "<em>Tudj&aacute;tok az ember kedve hull&aacute;mz&oacute;, lehet &eacute;ppen szomor&uacute; vagy vid&aacute;m, de a l&eacute;nyeg, hogy mindig j&oacute; ked&eacute;lyű legyen!</em>" Ez a mondat, ha nem is sz&oacute; szerint, de nagyon megmaradt bennem, mondhatni &eacute;letfiloz&oacute;fi&aacute;mm&aacute; v&aacute;lt.</p>
+<p></p>
+
+</section>
+
+<section id="Tapasztalatok" class="container_16">
+<header>
+        
+<h1>Tapasztalatok</h1>
+
+    </header>
+    <h2>Software Developer</h2>
+<p><strong>EPAM Systems</strong><br /><em>January 2013 &ndash; Present (1 year 2 months)</em></p>
+<p>Developing the website for one of the leading airlines in the EU.<br />ASP.NET MVC, JavaScript developer on an Accessibility project</p>
+<p></p>
+<h2>Lead Education Manager</h2>
+<p><strong>Simonyi Special College for Advanced Studies</strong><br /><em>January 2012 &ndash; January 2013 (1 year 1 month)</em></p>
+<p>Quality assurance of courses, trainings, seminars at Simonyi Special College, Development of the classrooms</p>
+<p></p>
+<h2>Web Development Team Leader</h2>
+<p><strong>Simonyi Special College for Advanced Studies</strong><br /><em>January 2011 &ndash; January 2012 (1 year 1 month)</em></p>
+<p>- ASP.NET development (WebForms, MVC)</p>
+<p>- PHP development (Symfony framework)</p>
+<p>- JavaScript development</p>
+<p>- web development project management</p>
+<p></p>
+<h2>Software Developer Trainee</h2>
+<p><strong>Knorr-Bremse</strong><br /><em>June 2011 &ndash; December 2011 (7 months)</em></p>
+<p>Delphi, Perl</p>
+<p></p>
+<h2>Software Developer Trainee</h2>
+<p><strong>Inventure Automotive Electronics Research &amp; Development, Inc.</strong><br /><em>June 2010 &ndash; January 2011 (8 months)</em></p>
+<p>.NET development (WinForms, WPF)</p>
+
+</section>
+
+<section id="Projektek" class="container_16">
+<header>
+        
+<h1>Projektek</h1>
+
+    </header>
+    <h2>Software Developer &nbsp;&nbsp;</h2>
+<p><em>Jan, 2013 - Till Now</em></p>
+<p>EPAM Systems&nbsp;</p>
+<p><strong>Customer</strong>: Leading airline company in the EU</p>
+<p><strong>Project</strong>: The project goal was to make the customer's website accessible, for WCAG level A. &nbsp;&nbsp;</p>
+<p>Technologies: &nbsp; &nbsp;ASP.NET MVC, JavaScript (jQuery, Knockout.js), CoffeScript, Azure</p>
+<p></p>
+<h2>Software Developer &nbsp;&nbsp;</h2>
+<p><em>Sep, 2011 - Jan, 2013</em></p>
+<p><strong>Customer</strong>: a railway company &nbsp;&nbsp;</p>
+<p><strong>Project</strong>: The goal was to develop a ticket vending machine which can dispense tickets at the railway stations. When buying a ticket, it connects to the comapay's server through the internet to complete the transaction. You can pay in cash or by credit card, then the ticket will be printed. You also can request informations about departing trains. &nbsp;&nbsp;</p>
+<p><strong>Participation</strong>: My part was to develop the connection between the machine and the server. The communication was made with the help of WCF, and the data is cached in a local database. &nbsp;&nbsp;</p>
+<p>Technologies: WCF, Entity Framework, Unity, MS SQL Server CE 4 &nbsp; &nbsp;&nbsp;</p>
+<p></p>
+<h2>Project Manager, Software Developer &nbsp;&nbsp;</h2>
+<p><em>Jan, 2012 - May, 2012</em></p>
+<p>Simonyi Special College for Advanced Studies&nbsp;</p>
+<p><strong>Project</strong>: The goal of the project was to create a web based platform for courses held in the college. The website is able to store courses, lectures, educational materials. The students are able to upload their homework, and the lecturers evaluate them. &nbsp;&nbsp;</p>
+<p><strong>Participation</strong>: I was the PM of the project, and developed the homework uploading mechanism.&nbsp;</p>
+<p>Technologies: ASP.NET MVC 3, Entity Framework, Ajax, &nbsp; &nbsp;SQL Server 2008 &nbsp;</p>
+<p></p>
+<h2>Software Developer &nbsp;&nbsp;</h2>
+<p><em>Jul, 2011 - Jan, 2012</em></p>
+<p>Simonyi Special College for Advanced Studies</p>
+<p><strong>Project</strong>: The goal of the project was to create an intelligent reservation calendar for rooms. The calendar must be aware of the reservations rules, and do not allow to break them. &nbsp;&nbsp;</p>
+<p><strong>Participation</strong>: I was responsible for developing the room specific rules. &nbsp;&nbsp;</p>
+<p>Technologies: ASP.NET WebForms, SQL Server 2008 &nbsp;&nbsp;</p>
+<p></p>
+<h2>Software Developer &nbsp;</h2>
+<p>Jan, 2011 - Jun, 2011&nbsp;</p>
+<p>Simonyi Special College for Advanced Studies&nbsp;</p>
+<p><strong>Project</strong>: The goal of the project was to create a public website for the college, which contains news, introductions, trainings, and other informations about the organization. &nbsp;&nbsp;</p>
+<p><strong>Participation</strong>: I was the developer.</p>
+<p>Technologies: PHP, Symfony, MySQL</p>
+<p></p>
+<h2>Software Developer &nbsp;&nbsp;</h2>
+<p><em>Jun, 2010 - Mar, 2011</em></p>
+<p>Inventure Automotive Electronics Research &amp; Development, Inc.&nbsp;</p>
+<p><strong>Project</strong>: The task was to repair, update and do further developments on the company website. Many part of the site was broken or unfinished. &nbsp;&nbsp;</p>
+<p><strong>Participation</strong>: My work included finding the issues and solutions for them. I had to create varios test cases. &nbsp;&nbsp;</p>
+<p>Technologies: PHP, JavaScript, MySQL</p>
+<p></p>
+<h2>Software Developer</h2>
+<p><em>Sep, 2010 - Jan, 2011</em></p>
+<p>Inventure Automotive Electronics Research &amp; Development, Inc.&nbsp;</p>
+<p><strong>Project</strong>: The goal of the project was to create a software tool that can analize communication between embedded systems, including charts, gauges and tables. The tool had to be flexibel enough to handle multiple communication protocols, and fast enought to produce real-time data. &nbsp;&nbsp;</p>
+<p><strong>Participation</strong>: I had to design, develop and do real time tests with the application. &nbsp;&nbsp;</p>
+<p>Technologies: .NET WinForms, C#</p>
+</section>
+
+<!--==============================footer=================================-->
+<footer>
+    <div class="main">
+        <div class="lineFooter"></div>
+        <div class="footer_fig3">
+        </div>
+        <div class="footer_fig">
+            Szelpe.hu © Szél Péter 2014
+        </div>
+        <div class="footer_fig2">
+            
+        </div>
+    </div>
+</footer>
+<script src="Scripts/jquery.js" type="text/javascript"></script>
+<script src="Scripts/jquery.easing.js" type="text/javascript"></script>
+<script src="Scripts/jquery.sprites.js" type="text/javascript"></script>
+<script src="Scripts/script.js" type="text/javascript"></script>
+
+    </body>
+</html>
