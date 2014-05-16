@@ -12,16 +12,16 @@ Megszállott híve vagyok a **pozitív pszichológiának.** Hiszem, hogy
 esélyét.
 
 Egyik kedvenc történetem ezzel kapcsolatban legjobb egyetemi barátomhoz,
-Szabó Gáborhoz kötheto. Rendszerint egymás mellett ültünk, és a legtöbb
-egyetemistával ellentétben, akik unottan, meglehetos közönnyel vegyítve
-szenvedték végig az eloadások sorát, mi mindig viccelodtünk valamivel.
-Egyik alkalommal, mikor eloadásra érkezvén beléptünk a terembe, az
-eloadó ránknézett és megszólalt: "*Na, megjöttek a vidám fiúk!*"
-Elképesztoen meglepodtem, hogy 500 évfolyamtársunk közül így megjegyzett
-minket magának; valahol jól is esett. Ekkor döbbentem rá talán eloször,
-hogy mekkora a jelentosége a boldogságnak bármiben, amit csinálsz. Így
+Szabó Gáborhoz köthető. Rendszerint egymás mellett ültünk, és a legtöbb
+egyetemistával ellentétben, akik unottan, meglehetős közönnyel vegyítve
+szenvedték végig az előadások sorát, mi mindig viccelődtünk valamivel.
+Egyik alkalommal, mikor előadásra érkezvén beléptünk a terembe, az
+előadó ránknézett és megszólalt: "*Na, megjöttek a vidám fiúk!*"
+Elképesztoen meglepődtem, hogy 500 évfolyamtársunk közül így megjegyzett
+minket magának; valahol jól is esett. Ekkor döbbentem rá talán először,
+hogy mekkora a jelentősége a boldogságnak bármiben, amit csinálsz. Így
 folytatta a professzor úr: "*Tudjátok az ember kedve hullámzó, lehet
-éppen szomorú vagy vidám, de a lényeg, hogy mindig jó kedélyu legyen!*"
+éppen szomorú vagy vidám, de a lényeg, hogy mindig jó kedélyű legyen!*"
 Ez a mondat, ha nem is szó szerint, de nagyon megmaradt bennem,
 mondhatni életfilozófiámmá vált.
 
