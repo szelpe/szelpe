@@ -29,6 +29,17 @@ h4 { font-size: 1.231em; }
 
 p { padding-bottom: 18px; padding-right: 5px;}
 
+h1 .logo
+{
+    text-indent: -10000px;
+    overflow: hidden;
+    background: url(../Images/logo.png) top center no-repeat;
+    display: block;
+    height: 150px;
+    width: 234px;
+    margin: auto;
+}
+
 #branding 
 {   
     font-family: 'Philosopher', 'Times New Roman', Tahoma, Arial, Helvetica, sans-serif;
