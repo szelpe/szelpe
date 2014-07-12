@@ -1,11 +1,19 @@
 Tapasztalatok
 =============
 
+Software Engineer
+------------------
+
+**LogMeIn**\
+*May 2014 – Present*
+
+Working in a Scrum team to implement new features for the Central product using ASP.NET and JavaScript.
+
 Software Developer
 ------------------
 
 **EPAM Systems**\
-*January 2013 – Present (1 year 2 months)*
+*January 2013 – April 2014 (1 year 3 months)*
 
 Developing the website for one of the leading airlines in the EU.\
 ASP.NET MVC, JavaScript developer on an Accessibility project
