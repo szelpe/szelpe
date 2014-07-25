@@ -10,7 +10,7 @@ $(function () {
             return;
         
         e.preventDefault();
-        $.scrollTo($($link.attr("href")), 800, { easing: 'swing' });
+        $.scrollTo($($link.attr("href")), 700, { easing: 'easeOutExpo' });
     });
     
     $('#FollowMe a').click(function () {
