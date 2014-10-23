@@ -1,10 +1,21 @@
 Projektek
 =========
 
+Software Engineer   
+---------------------
+
+*May, 2014 - Till Now*
+
+LogMeIn R&D Centers, Budapest
+
+**Project**: LogMeIn Central.   
+
+**Technologies**:    ASP.NET, Web API, JavaScript (jQuery, Angual.js)
+
 Software Developer   
 ---------------------
 
-*Jan, 2013 - Till Now*
+*Jan, 2013 - May, 2013*
 
 EPAM Systems 
 
