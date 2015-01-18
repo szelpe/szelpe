@@ -1,6 +1,14 @@
 Tapasztalatok
 =============
 
+Scrum Master
+------------
+
+**LogMeIn**\
+*May 2014 – Present*
+
+Working as a Scrum Master in a team of 7 developers, by removing impediments and coaching the team my goal is to boost the productivity of the team.
+
 Software Engineer
 ------------------
 
