@@ -1,6 +1,6 @@
 # Bemutatkozás
 
-##![Önarckép](http://m.c.lnkd.licdn.com/media/p/4/000/14d/022/2fc56df.jpg) { style=float:right }
+##![Önarckép](Images/me.jpg) { style=float:right }
 Szél Péter vagyok, villamosmérnök. Egészen kiskorom óta (nagyjából amióta
 bekötötték hozzánk az internetet) **szenvedélyem a webfejlesztés**, s
 miután elvégeztem az egyetemet, e hobby a munkámmá vált.
