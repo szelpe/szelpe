@@ -1,6 +1,6 @@
 # Bemutatkozás
 
-##![Önarckép](Images/me.jpg) { style=float:right }
+![Önarckép](Images/me.jpg)
 Szél Péter vagyok, villamosmérnök. Egészen kiskorom óta (nagyjából amióta
 bekötötték hozzánk az internetet) **szenvedélyem a webfejlesztés**, s
 miután elvégeztem az egyetemet, e hobby a munkámmá vált.
@@ -24,4 +24,3 @@ folytatta a professzor úr: "*Tudjátok, az ember kedve hullámzó, lehet
 éppen szomorú vagy vidám, de a lényeg, hogy mindig jó kedélyű legyen!*"
 Ez a mondat, ha nem is szó szerint, de nagyon megmaradt bennem,
 mondhatni életfilozófiámmá vált.
-

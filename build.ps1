@@ -1,3 +1,5 @@
+$ErrorActionPreference = "Stop"
+
 mkdir .\tmp
 $files = Get-ChildItem .\Content | % { $_.Name }
 $template = Get-Content .\index.src.html
