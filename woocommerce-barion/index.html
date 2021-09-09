@@ -2,6 +2,11 @@
 <html lang="en">
 
 <head>
+    <script>
+        if (!window.location.pathname.endsWith("/")) {
+            window.location.pathname = window.location.pathname + '/';
+        }
+    </script>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -30,17 +35,14 @@
                     online store.
                 </p>
                 <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
-                    <a href="https://wordpress.org/plugins/pay-via-barion-for-woocommerce/"
-                       target="_blank"
+                    <a href="https://wordpress.org/plugins/pay-via-barion-for-woocommerce/" target="_blank"
                         class="btn btn-secondary btn-lg px-4 gap-3">
                         Get the plugin
                     </a>
-                    <a href="#support"
-                        class="btn btn-primary btn-lg px-4 gap-3">
+                    <a href="#support" class="btn btn-primary btn-lg px-4 gap-3">
                         I need help
                     </a>
-                    <a href="https://github.com/szelpe/woocommerce-barion"
-                        target="_blank"
+                    <a href="https://github.com/szelpe/woocommerce-barion" target="_blank"
                         class="btn btn-outline-secondary btn-lg px-4">
                         <img src="./images/github.png" alt="" height="30">
                         Source code
@@ -98,8 +100,7 @@
                     </div>
                     <div class="card-body">
                         <h1 class="card-title pricing-card-title">$0<small class="text-muted fw-light">/mo</small></h1>
-                        <a href="https://wordpress.org/support/plugin/pay-via-barion-for-woocommerce/"
-                            target="_blank"
+                        <a href="https://wordpress.org/support/plugin/pay-via-barion-for-woocommerce/" target="_blank"
                             class="w-100 btn btn-lg btn-outline-primary">Community forums</a>
                     </div>
                 </div>
@@ -142,7 +143,9 @@
         </div>
         <div class="p-3 pb-md-4 mx-auto" id="signup">
             <script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script>
-            <iframe class="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/shrzjuTocag3GOGzM?backgroundColor=blue" frameborder="0" onmousewheel="" width="100%" height="764" style="background: transparent; border: 1px solid #ccc;"></iframe>
+            <iframe class="airtable-embed airtable-dynamic-height"
+                src="https://airtable.com/embed/shrzjuTocag3GOGzM?backgroundColor=blue" frameborder="0" onmousewheel=""
+                width="100%" height="764" style="background: transparent; border: 1px solid #ccc;"></iframe>
         </div>
         <div class="p-3 pb-md-4 mx-auto">
             <h3 class="display-4 fw-normal">Paid Support Policy</h1>
