@@ -1,0 +1,9 @@
+{
+    "routes": [
+        {
+            "route": "/woocommerce-barion/index.html",
+            "redirect": "/woocommerce-barion/",
+            "statusCode": 301
+        }
+    ]
+}
