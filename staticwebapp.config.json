@@ -4,6 +4,11 @@
             "route": "/woocommerce-barion",
             "redirect": "/woocommerce-barion/index.html",
             "statusCode": 301
+        },
+        {
+            "route": "/woocommerce-barion/index.html",
+            "redirect": "/woocommerce-barion/",
+            "statusCode": 301
         }
     ]
 }
